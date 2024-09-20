@@ -1,0 +1,3 @@
+运行base和sub两个项目
+base中MyTest2.ce只要有style标签中css样式，子应用中使用的defineCustomElement报错
+vue版本将为3.4正常，将MyTest2.ce.vue中style标签删除正常
